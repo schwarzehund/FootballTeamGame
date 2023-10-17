@@ -35,3 +35,5 @@ Based on those informations I've created a component description:
 6. **Gold items** can be upgraded to **Platinum leve**l, and special **platinum items** (eg. leg pads, balls, and bands) can be upgraded to **Diamond level**.
 
 7. Upgrading a **Gold** item to **Diamond level** (raising it by two levels) **is not possible**.
+
+Based on those Acceptance Criteria I created [Test Cases](TestCases.md)
