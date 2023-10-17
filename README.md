@@ -5,10 +5,9 @@ https://github.com/users/schwarzehund/projects/1
 It will contain steps of my preparation as well test scenarios, bugs, and test report.
 
 
-1. Gather basic informations about the "Enchantment" module.
-2. Prepare a brief description that explains how it works.
-3. Set up input conditions (rules, items, currency).
-4. Create test cases.
-5. Potential issues.
-6. Edge cases.
-7. Strategies.
+1. [Gather informations, prepare input parameters and acceptance criteria](basicinformations.md).
+2. [Create test cases](TestCases.md).
+3. [API test cases.](API_TestCases.md)
+4. Conduct tests 
+5. [Raise a bugs.](bugs.md)
+6. [Write test report.](TestReport.md)
