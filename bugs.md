@@ -20,3 +20,4 @@ Though I found something else that raised my attention.
 |Expected result	|A user with such an email should be able to register for the game, especially since the email hubert.wozniak@gmail.com is permissible. The validation rules for this field are unclear to me. Not allowing the creation of accounts for such emails may result in a potential loss of players. However, I understand that this validation may have been introduced for security purposes or to prevent misuse.
 Attachement:|	https://calip.io/J5uZ3jTR#DX7Kejtg
 
+

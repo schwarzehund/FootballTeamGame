@@ -52,3 +52,4 @@ To create this report and conduct tests, I used:
 - **Postman** for sending requests to the endpoint,
 - **Miro**,
 - **Google Sheets and Docs**.
+- 
