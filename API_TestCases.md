@@ -1,6 +1,6 @@
 # API Test Cases
 
-## Test Case 10: Enhancing Non-User Items (API)
+## Test Case 1: Enhancing Non-User Items (API)
 **Steps:**
 
 1. Open Postman.
@@ -24,7 +24,7 @@
 }
  ```
 
- ## Test Case 11: Enhancing Items Not Meant for Enhancement
+ ## Test Case 2: Enhancing Items Not Meant for Enhancement
 **Steps:**
 
 1. Open Postman.
@@ -40,6 +40,7 @@ https://api.en.footballteamgame.com/character/enchanting/(itemid)
 }
 ```
 6. Send the request. 
+
 **Expected result:**
 Response: 
 ```

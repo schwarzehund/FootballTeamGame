@@ -36,4 +36,4 @@ Based on those informations I've created a component description:
 
 7. Upgrading a **Gold** item to **Diamond level** (raising it by two levels) **is not possible**.
 
-Based on those Acceptance Criteria I created [Test Cases](TestCases.md)
+Based on those Acceptance Criteria I created [Test Cases](TestCases.md) and [API_TestCases](API_TestCases.md)
