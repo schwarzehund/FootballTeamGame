@@ -10,6 +10,7 @@
 
 **Expected Result:** The Enhancement feature should be available in the Locker tab.
 <img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image9.png">
+
 ## Test Case 2: Checking Items for Enhancement
 **Steps:**
 
@@ -18,6 +19,7 @@
 3. Check if the appropriate items are in the correct color sections.
 
 **Expected Result:** Enhancement should be allowed for green, red, and gold items, while the presence of blue and gray items is an error.
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image2.png">
 
 ## Test Case 3: Enhancement Options
 **Steps:**
@@ -34,6 +36,8 @@
 4. Checkbox for using Golden Balls should be available to check, but only for previously enhanced items. T
 5. he dropdown for selecting special balls should be clickable, with the only displayed value being — in case of a lack of balls.
 
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image8.png">
+
 ## Test Case 4: Enhancement
 **Steps:**
 
@@ -43,6 +47,10 @@
 4. Click "Enhance."
 
 **Expected Result:** The enhanced item should receive skill and UM bonuses. With each subsequent attempt, the enhancement chance decreases, and there is a risk of lowering the level in case of a failed enhancement.
+
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image4.png">
+
+
 
 ## Test Case 5: Failed Enhancement
 **Steps:**
@@ -55,6 +63,8 @@
 
 **Expected Result:** A failed enhancement should leave the item at its current level.
 
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image5.png">
+
 ### Test Case 5a: Item Degradation
 **Steps:**
 
@@ -66,6 +76,10 @@
 
 **Expected Result:** In case of a successful enhancement but a high risk of failure, the item should be degraded by one level, and UM points should be deducted. After the item's degradation, the risk level should decrease for the next enhancement attempt.
 
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image13.png">
+
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image11.png">
+
 ### Test Case 5b: Insufficient Euro
 **Steps:**
 
@@ -75,6 +89,10 @@
 4. Click "Enhance."
 
 **Expected Result:** An error toast message should appear stating "Insufficient Euro," and the enhancement should not proceed.
+
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image12.png">
+
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image10.png">
 
 ### Test Case 5c: Insufficient Golden Balls
 Steps:
@@ -97,6 +115,8 @@ Steps:
 5. Verify if Golden Balls prevent the loss of bonuses in case of a failed enhancement.
 
 **Expected Result:** The use of Golden Balls should prevent the loss of bonuses in case of a failed enhancement.
+
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image5.png">
 
 ## Test Case 7: Enhancement to Higher Levels
 **Steps:**

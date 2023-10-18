@@ -23,6 +23,7 @@
     "error": "Selected item does not exist"
 }
  ```
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image3.png">
 
  ## Test Case 2: Enhancing Items Not Meant for Enhancement
 **Steps:**
@@ -36,7 +37,7 @@ https://api.en.footballteamgame.com/character/enchanting/(itemid)
 ```
 {
   "use_golden_balls": 1,
-  "special_item_id": 0
+  "special_item_id": 1
 }
 ```
 6. Send the request. 
@@ -49,3 +50,4 @@ Response:
 }
 ```
 
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image7.png">
