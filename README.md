@@ -1,6 +1,7 @@
 # FootballTeamGame
-Repo for storing tasks regardless to recruitment task
-https://github.com/users/schwarzehund/projects/1
+<img src=">
+Repo for storing tasks regardless to recruitment task -> [GithubProject](https://github.com/users/schwarzehund/projects/1)
+
 
 It will contain steps of my preparation as well test scenarios, bugs, and test report.
 
