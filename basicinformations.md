@@ -9,18 +9,17 @@ Based on those informations I've created a component description:
 
 1. Access to a web browser and logging into the game
 2. Items
-```
-   1. # common
-   2. blue - enhanced
-   3. green - rare
-   4. red - epic
-   5. gold - legendary
+   1. <span style="color:gray;">common </span>
+   2. <span style="color:blue;">enchanted </span>
+   3. <span style="color:green;">rare </span>
+   4. <span style="color:red;">epic </span>
+   5. <span style="color:gold;">legendary </span>
    6. platinum
    7. diamond
    8. historical
-   ```
-3. Golden Balls
-4. Currency - Euro 
+
+3. Golden Balls :soccer:
+4. Currency - Euro 	:euro:
 
 ## ACCEPTANCE CRITERIA
 
