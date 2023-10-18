@@ -9,7 +9,8 @@ Based on those informations I've created a component description:
 
 1. Access to a web browser and logging into the game
 2. Items
-   1. gray - `#808080` common
+```
+   1. # common
    2. blue - enhanced
    3. green - rare
    4. red - epic
@@ -17,6 +18,7 @@ Based on those informations I've created a component description:
    6. platinum
    7. diamond
    8. historical
+   ```
 3. Golden Balls
 4. Currency - Euro 
 
