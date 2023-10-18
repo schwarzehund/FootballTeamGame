@@ -30,11 +30,11 @@
 4. Verify that the item appears in the "Enhancement" section, a cost for enhancement is displayed, the "Enhance" button is highlighted, and the checkbox for using Golden Balls is available to check.
 
 **Expected Result:** 
-1. The item should appear in the "Enhancement" section
-2. Cost for enhancement should be displayed, 
-3. The "Enhance" button should be highlighted,
-4. Checkbox for using Golden Balls should be available to check, but only for previously enhanced items. T
-5. he dropdown for selecting special balls should be clickable, with the only displayed value being — in case of a lack of balls.
+1. The item should appear in the "Enhancement" section.
+2. Cost for enhancement should be displayed.
+3. The "Enhance" button should be highlighted.
+4. Checkbox for using Golden Balls should be available to check, but only for previously enhanced items. 
+5. The dropdown for selecting special balls should be clickable, with the only displayed value being — in case of a lack of balls.
 
 <img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image8.png">
 
