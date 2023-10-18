@@ -9,7 +9,7 @@
 3. Check the availability of the Enhancement feature.
 
 **Expected Result:** The Enhancement feature should be available in the Locker tab.
-
+(C:\Users\huber\Desktop\FootballTeamGame\images\image1.png)
 ## Test Case 2: Checking Items for Enhancement
 **Steps:**
 
