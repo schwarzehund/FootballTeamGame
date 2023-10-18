@@ -2,6 +2,14 @@
 
 Based on [test cases](TestCases.md) I did a test session. 
 
+|Title                      | Values                         |
+|------------               |--------------------------------|
+|Reporter:  	            |Hubert Woźniak                  |
+|Date:	                    |28.09.2023                      |
+|Env: 	                    |https://en.footballteamgame.com/|
+|Version:                   |	1.29                         |
+|Browser:                   | 	Chrome Version 117.0.5938.92 |(Official Build) (64-bit)
+
 I estimated that completing those scenarios will take me around **2 or 3 hours**. 
 
 I also planned *exploratory testing* session and decided I am going to spent 45 minutes. 
