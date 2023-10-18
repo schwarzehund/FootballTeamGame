@@ -5,7 +5,7 @@ Informations about how it works can be found in [FAQ](https://en.footballteamgam
 Based on those informations I've created a component description: 
 >The Enhancement function allows users to strengthen the skill bonuses of items they possess in the game. The strength of the bonus depends on the rarity of the item, and there is a risk of failure during the enhancement process. Using Golden Balls can prevent the loss of bonuses in case of failure.
 
-## INPUT PARAMETERS 
+## INPUT PARAMETERS  
 
 1. Access to a web browser and logging into the game
 2. Items
@@ -36,5 +36,6 @@ Based on those informations I've created a component description:
 6. **Gold items** can be upgraded to **Platinum leve**l, and special **platinum items** (eg. leg pads, balls, and bands) can be upgraded to **Diamond level**.
 
 7. Upgrading a **Gold** item to **Diamond level** (raising it by two levels) **is not possible**.
+
 
 Based on those Acceptance Criteria I created [Test Cases](TestCases.md) and [API_TestCases](API_TestCases.md)
