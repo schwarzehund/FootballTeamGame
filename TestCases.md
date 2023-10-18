@@ -76,9 +76,11 @@
 
 **Expected Result:** In case of a successful enhancement but a high risk of failure, the item should be degraded by one level, and UM points should be deducted. After the item's degradation, the risk level should decrease for the next enhancement attempt.
 
-<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image13.png">
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image13.png" 
+style= "display: inline-block; margin:0 auto; max-width; 300px" >
 
-<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image11.png">
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image11.png"
+style= "display: inline-block; margin:0 auto; max-width; 300px" >
 
 ### Test Case 5b: Insufficient Euro
 **Steps:**
