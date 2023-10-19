@@ -14,9 +14,25 @@
     "use_golden_balls": 1,
    "special_item_id": 0
    }
-6. Send the request 
+   
+6. Let's add some tests 
+
+*Since we're trying to do something we're should be allowed to, probably status of the response should be 422.*
+In **Test** tab add simple test 
+```
+pm.test("Status code is 422", function () {
+   pm.response.to.have.status(422);
+});
+```
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image(21).png">
+
+
+7. Send the request 
 
 **Expected Result:**
+ 
+ **Status code 422**
+
  The response should be:
  ```
  {
@@ -40,9 +56,22 @@ https://api.en.footballteamgame.com/character/enchanting/(itemid)
   "special_item_id": 1
 }
 ```
-6. Send the request. 
+6. Let's add some tests 
+
+*Since we're trying to do something we're should be allowed to, probably status of the response should be 422.*
+In **Test** tab add simple test 
+```
+pm.test("Status code is 422", function () {
+   pm.response.to.have.status(422);
+});
+```
+<img src="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image(21).png">
+
+7. Send the request. 
 
 **Expected result:**
+
+**Status code 422**
 Response: 
 ```
 {
