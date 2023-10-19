@@ -24,7 +24,7 @@ pm.test("Status code is 422", function () {
    pm.response.to.have.status(422);
 });
 ```
-<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image(21).png">
+<img src ="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image (21).png">
 
 
 7. Send the request 
@@ -65,7 +65,7 @@ pm.test("Status code is 422", function () {
    pm.response.to.have.status(422);
 });
 ```
-<img src="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image(21).png">
+<img src="https://github.com/schwarzehund/FootballTeamGame/blob/main/images/image (21).png">
 
 7. Send the request. 
 
