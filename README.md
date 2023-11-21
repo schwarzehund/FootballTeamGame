@@ -1,7 +1,7 @@
 #  Football Team Game
 <img src="https://raw.githubusercontent.com/schwarzehund/FootballTeamGame/main/images/football-team.webp">
 
-Repo for storing tasks regarding to recruitment task -> [GithubProject](https://github.com/users/schwarzehund/projects/1)
+Example task for showcasing my testing approach and test cases -> [GithubProject](https://github.com/users/schwarzehund/projects/1)
 
 
 It will contain steps of my preparation as well test scenarios, bugs, and test report.
